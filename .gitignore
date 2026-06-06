@@ -1,0 +1,6 @@
+*.avi
+*.task
+*.png
+__pycache__/
+*.pyc
+.claude/
