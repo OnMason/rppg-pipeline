@@ -1,6 +1,10 @@
 *.avi
 *.task
-*.png
+outputs/
 __pycache__/
 *.pyc
+.venv/
+venv/
 .claude/
+.vscode/
+.idea/
